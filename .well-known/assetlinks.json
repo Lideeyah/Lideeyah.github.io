@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lideeyah.lode",
+      "sha256_cert_fingerprints": [
+        "16:8B:15:5C:9F:AD:69:F4:D8:24:79:5E:CE:EE:07:4A:DF:9F:BE:D7:9C:C9:A9:A0:17:AB:73:38:E0:C8:81:F6"
+      ]
+    }
+  }
+]
